@@ -25,7 +25,7 @@ class Solution {
     for (int r = 0; r < nr; ++r) {
       for (int c = 0; c < nc; ++c) {
         if (grid[r][c] == '1') {
-          ++num_islands;
+          num_islands++;
           dfs(grid, r, c);
         }
       }
