@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0200-number-of-islands](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0200-number-of-islands/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0200-number-of-islands/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,4 +57,5 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0200-number-of-islands/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 <!---LeetCode Topics End-->
