@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0058-length-of-last-word/) | Easy |
+| [0242-valid-anagram](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0242-valid-anagram/) | Easy |
 | [0539-minimum-time-difference](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0539-minimum-time-difference/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -76,5 +77,10 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0242-valid-anagram/) | Easy |
 | [0539-minimum-time-difference](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0539-minimum-time-difference/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
