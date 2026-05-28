@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0200-number-of-islands/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0539-minimum-time-difference](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0539-minimum-time-difference/) | Medium |
 | [0695-max-area-of-island](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0733-flood-fill/) | Easy |
@@ -78,9 +79,19 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0539-minimum-time-difference](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0539-minimum-time-difference/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
