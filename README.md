@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0200-number-of-islands/) | Medium |
+| [0217-contains-duplicate](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0539-minimum-time-difference](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0539-minimum-time-difference/) | Medium |
 | [0695-max-area-of-island](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0695-max-area-of-island/) | Medium |
@@ -78,12 +79,14 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0539-minimum-time-difference](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0539-minimum-time-difference/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Two Pointers
