@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0001-two-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0349-intersection-of-two-arrays/) | Easy |
