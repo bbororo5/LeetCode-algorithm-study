@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0242-valid-anagram/) | Easy |
 | [0539-minimum-time-difference](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0539-minimum-time-difference/) | Medium |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0049-group-anagrams/) | Medium |
 | [0200-number-of-islands](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -88,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0349-intersection-of-two-arrays/) | Easy |
