@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0539-minimum-time-difference](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0539-minimum-time-difference/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +105,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
