@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0539-minimum-time-difference](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0539-minimum-time-difference/) | Medium |
+| [0811-subdomain-visit-count](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0811-subdomain-visit-count/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0539-minimum-time-difference/) | Medium |
 | [0695-max-area-of-island](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0733-flood-fill/) | Easy |
+| [0811-subdomain-visit-count](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0811-subdomain-visit-count/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0811-subdomain-visit-count](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0811-subdomain-visit-count/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,4 +116,5 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0811-subdomain-visit-count](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0811-subdomain-visit-count/) | Medium |
 <!---LeetCode Topics End-->
