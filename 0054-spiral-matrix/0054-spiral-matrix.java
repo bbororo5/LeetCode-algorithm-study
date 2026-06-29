@@ -1,38 +1,49 @@
 class Solution {
+    /*
+        // 초기화: 방문 배열(visited), 결과 리스트(result), 초기 방향(우측), 위치(0,0)
+
+        while (결과 리스트의 크기 < 전체 행렬 크기):
+            1. 현재 위치를 방문 처리하고 결과 리스트에 추가
+            2. 다음 예상 좌표를 계산 (현재 위치 + 현재 방향)
+    
+            3. if (다음 좌표가 경계 안인가? AND 방문하지 않았는가?):
+                그 위치로 이동
+                else:
+                    방향을 시계방향으로 회전 (인덱스 변화)
+                    새로운 방향으로 위치 갱신
+           
+        return 결과 리스트
+    */
+
     public List<Integer> spiralOrder(int[][] matrix) {
         int m = matrix.length;
-        if (m == 0)
-            return Collections.emptyList();
         int n = matrix[0].length;
+        boolean[][] visited = new boolean[m][n];
+        List<Integer> result = new ArrayList<>();
+        int[] dx = {0, 1, 0, -1};
+        int[] dy = {1, 0, -1, 0};
+        int dir = 0;
+        int x = 0, y = 0;
+        int matrixSize = m * n;
 
-        int top = 0, bottom = m - 1, left = 0, right = n - 1;
-        List<Integer> res = new ArrayList<>(m * n);
+        while(result.size() < matrixSize) {
+            if(!visited[x][y]) {
+                visited[x][y] = true;
+                result.add(matrix[x][y]);
+            }
+            
+            int nextX = x + dx[dir];
+            int nextY = y + dy[dir];
 
-        while (res.size() < m * n) {
-            // 1) 왼→오
-            for (int c = left; c <= right; c++)
-                res.add(matrix[top][c]);
-            top++;
-
-            // 2) 위→아래
-            for (int r = top; r <= bottom; r++)
-                res.add(matrix[r][right]);
-            right--;
-
-            // 3) 오른→왼
-            if (top <= bottom) {
-                for (int c = right; c >= left; c--)
-                    res.add(matrix[bottom][c]);
-                bottom--;
+            if(nextX >= 0 && nextX < m && nextY >= 0 && nextY < n && visited[nextX][nextY] == false) {    
+                x = nextX;
+                y = nextY;
+            } else {
+                dir = (dir + 1) % 4; 
             }
 
-            // 4) 아래→위
-            if (left <= right) {
-                for (int r = bottom; r >= top; r--)
-                    res.add(matrix[r][left]);
-                left++;
-            }
         }
-        return res;
+
+        return result;
     }
 }
