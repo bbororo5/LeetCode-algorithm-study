@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0539-minimum-time-difference](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0539-minimum-time-difference/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0811-subdomain-visit-count/) | Medium |
+| [1041-robot-bounded-in-circle](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/1041-robot-bounded-in-circle/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0539-minimum-time-difference](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0539-minimum-time-difference/) | Medium |
+| [1041-robot-bounded-in-circle](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/1041-robot-bounded-in-circle/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,4 +125,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1041-robot-bounded-in-circle](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/1041-robot-bounded-in-circle/) | Medium |
 <!---LeetCode Topics End-->
