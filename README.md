@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0049-group-anagrams/) | Medium |
+| [0054-spiral-matrix](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0054-spiral-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0054-spiral-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0733-flood-fill/) | Easy |
@@ -128,5 +130,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0054-spiral-matrix/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/1041-robot-bounded-in-circle/) | Medium |
 <!---LeetCode Topics End-->
