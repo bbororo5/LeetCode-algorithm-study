@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0001-two-sum/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0054-spiral-matrix/) | Medium |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0035-search-insert-position/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0704-binary-search/) | Easy |
