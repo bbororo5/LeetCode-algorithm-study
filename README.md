@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0539-minimum-time-difference](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0539-minimum-time-difference/) | Medium |
+| [0752-open-the-lock](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0752-open-the-lock/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0811-subdomain-visit-count/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/1041-robot-bounded-in-circle/) | Medium |
 ## Tree
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0733-flood-fill/) | Easy |
+| [0752-open-the-lock](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0752-open-the-lock/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0733-flood-fill/) | Easy |
+| [0752-open-the-lock](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0752-open-the-lock/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0811-subdomain-visit-count/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Union-Find
@@ -109,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0752-open-the-lock](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0752-open-the-lock/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0811-subdomain-visit-count/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
