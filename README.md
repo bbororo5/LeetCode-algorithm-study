@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0539-minimum-time-difference/) | Medium |
 | [0752-open-the-lock](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0752-open-the-lock/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0811-subdomain-visit-count/) | Medium |
+| [0944-delete-columns-to-make-sorted](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1041-robot-bounded-in-circle](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/1041-robot-bounded-in-circle/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0733-flood-fill/) | Easy |
 | [0752-open-the-lock](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0752-open-the-lock/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0811-subdomain-visit-count/) | Medium |
+| [0944-delete-columns-to-make-sorted](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -149,4 +151,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0054-spiral-matrix/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/1041-robot-bounded-in-circle/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 <!---LeetCode Topics End-->
