@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0733-flood-fill/) | Easy |
 | [0752-open-the-lock](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0752-open-the-lock/) | Medium |
+| [0994-rotting-oranges](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0752-open-the-lock](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0752-open-the-lock/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
+| [0994-rotting-oranges](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bbororo5/LeetCode-algorithm-study/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Math
 | Problem Name | Difficulty |
