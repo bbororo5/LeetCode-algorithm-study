@@ -18,7 +18,7 @@ class Solution {
             int r = cur[0];
             int c = cur[1];
 
-            System.out.printf(">> 현재 방문: (%d, %d)\n", r, c);
+            // System.out.printf(">> 현재 방문: (%d, %d)\n", r, c);
             for(int i = 0; i < 4; i++) {
                 int nr = r + dx[i];
                 int nc = c + dy[i];
@@ -26,7 +26,7 @@ class Solution {
                 if(nr >= 0 && nr < image.length && nc >= 0 && nc < image[0].length && image[nr][nc] == oldColor) {
                     queue.offer(new int[]{nr, nc});
                     image[nr][nc] = color;
-                    System.out.printf("nr : %d, nc : %d, color: %d\n",nr, nc, image[nr][nc]);
+                    // System.out.printf("nr : %d, nc : %d, color: %d\n",nr, nc, image[nr][nc]);
                 }
             }
         }
